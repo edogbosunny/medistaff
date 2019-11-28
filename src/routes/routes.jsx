@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from '../component/home'
-import NotFound from '../component/notfound';
+import NotFound from '../component/not-found';
 
 const routes = () => {
   return (
